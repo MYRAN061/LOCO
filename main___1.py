@@ -143,5 +143,5 @@ class LocoCoinsBot(discord.Client):
 
 bot = LocoCoinsBot()
 
-bot.run('NTg1OTQyMzQ3ODk2OTc5NDY4.XRepWg.oZangan14199Tc45Bp2iLx0GqSs')
+bot.run('NTg1OTQyMzQ3ODk2OTc5NDY4.XRepWg.oZXcFGLEqaG7-7SCl-1fCUoX2lw')
 
